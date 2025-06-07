@@ -66,23 +66,6 @@ This repository supports a research project analyzing MLB batting data using **p
 3. **Run Causal Inference**: Apply DID methodology to quantify changes.
 4. **Engineer Quality Data**: Combine batter stats, league data, and defensive shifts.
 
----
-
-## 🛠️ Setup Instructions
-
-1. Create virtual environment (if not already):
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate  # or .venv\Scripts\activate on Windows
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
 ## 📈 Usage Workflow
 
 1. Run `ModelingDataProcessing.ipynb` to prepare your datasets.
@@ -98,6 +81,6 @@ This repository supports a research project analyzing MLB batting data using **p
 
 **Andrew Martinez**  
 Cal Poly, 2025  
-📧 [amart531@calpoly.edu](mailto:amart531@calpoly.edu)
+📧 [amart89531@gmail.com](mailto:amart89531@gmail.com)
 
 ---
