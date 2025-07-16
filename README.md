@@ -4,6 +4,13 @@ This repository supports a research project analyzing MLB batting data using **p
 
 ---
 
+
+## 📄 Research Paper
+
+You can read the full project paper here:  
+🔗 [**Analyzing the Shift Ban in Major League Baseball: A Cluster-Based Difference-in-Differences Approach**](https://andrewjmart.github.io/ClusterMLBShiftPaper/)
+
+
 ## 📁 Repository Structure
 
 ---
